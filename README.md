@@ -6,7 +6,9 @@ Python simulation for search and rescue of man overboard victims
 
 ## References
 
-If you use the code, please cite:
+If you use the code, please cite our paper:
+
+>https://ieeexplore.ieee.org/document/9292632
 
 
 ```
