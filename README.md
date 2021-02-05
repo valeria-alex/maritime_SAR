@@ -2,16 +2,14 @@
 Python simulation for search and rescue of man overboard victims
 
 
-If you use the code, please cite:
 
 
 ## References
-<a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
 
-@INPROCEEDINGS{9292632,
+If you use the code, please cite:
+
+
+<a> @INPROCEEDINGS{9292632,
   author={V. A. {Feraru} and R. E. {Andersen} and E. {Boukas}},
   booktitle={2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)}, 
   title={Towards an Autonomous UAV-based System to Assist Search and Rescue Operations in Man Overboard Incidents}, 
@@ -19,4 +17,5 @@ Communications of the ACM, 11(3), 147-148.
   volume={},
   number={},
   pages={57-64},
-  doi={10.1109/SSRR50563.2020.9292632}}
+  doi={10.1109/SSRR50563.2020.9292632}} 
+</a>
