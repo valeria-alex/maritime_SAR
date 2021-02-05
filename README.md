@@ -4,6 +4,13 @@ Python simulation for search and rescue of man overboard victims
 
 If you use the code, please cite:
 
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
+
 @INPROCEEDINGS{9292632,
   author={V. A. {Feraru} and R. E. {Andersen} and E. {Boukas}},
   booktitle={2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)}, 
