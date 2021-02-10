@@ -12,6 +12,7 @@ If you use the code, please cite our paper:
 
 
 ```
+BibTeX:
 @INPROCEEDINGS{9292632,
   author={V. A. {Feraru} and R. E. {Andersen} and E. {Boukas}},
   booktitle={2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)}, 
